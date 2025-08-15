@@ -20,3 +20,6 @@ La cocina japonesa se caracteriza por su énfasis en ingredientes frescos y de t
 - **Cerveza. 
 - **Té Verde. 
 - **Sake.
+
+## consejos: 
+La comida japonesa tiene su propia etiqueta. Antes de comer, se dice "itadakimasu" como muestra de gratitud. Es costumbre comer toda la comida en el plato. 
