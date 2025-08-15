@@ -8,3 +8,13 @@
 - **agua caliente
 - **el vino de arroz o
 - **el baijiu
+
+## platos principales :
+- **Zongzi. El zongzi es uno de los platos más tradicionales de China y se suele servir, sobre todo, durante el Festival del Barco del Dragón. 
+- **Dim sum. 
+- **Galletas de la fortuna. 
+- **Jiaozi. 
+- **Chow Mein. 
+- **Arroz congee. 
+- **Pato a la pekinesa. 
+- **Sopa de Won Ton.
