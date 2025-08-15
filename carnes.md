@@ -7,3 +7,8 @@ En términos generales, la carne se refiere a la parte muscular comestible de lo
 * -- carne a la llanera
 * -- carne en termino medio 
 * -- pavo al horno
+
+## bebidas recoemendadas:
+* -- cerveza
+* --agua
+* --vino
