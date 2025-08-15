@@ -8,4 +8,10 @@ la gastronomia de mexico es un patrimonio reconocido por ser una de las cocinas 
 - ** enchiladas, cantaritos, chiles de nogal
 - ** pozole,quesadirras entre otras
 
+## Bebidas recomendadas:
+- **los cantaritos, aguachiles
+- **limonada de jamaica, toranja y limos 
+- ** y otra vevifda no muy importante la birria
+
+
 
