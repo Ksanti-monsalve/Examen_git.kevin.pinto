@@ -12,3 +12,6 @@ En términos generales, la carne se refiere a la parte muscular comestible de lo
 * -- cerveza
 * --agua
 * --vino
+
+## consejos:
+La carne de conejo es considerada magra y una buena fuente de proteínas, vitaminas y minerales
