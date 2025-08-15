@@ -16,3 +16,6 @@ La comida mediterránea se caracteriza por un alto consumo de vegetales, frutas,
 - **seguida por el vino tinto con moderación 
 - **ocasionalmente, café o té. 
 - **También se recomiendan zumos naturales de frutas y bebidas refrescantes a base de cítricos
+
+## consejos:
+el consumo de alimentos frescos, naturales y poco procesados, con un énfasis en frutas, verduras, granos integrales, legumbres, aceite de oliva y pescado. Se recomienda limitar el consumo de carne roja, dulces y alimentos procesados
