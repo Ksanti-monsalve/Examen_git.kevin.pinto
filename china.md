@@ -18,3 +18,7 @@
 - **Arroz congee. 
 - **Pato a la pekinesa. 
 - **Sopa de Won Ton.
+
+## consejos:
+
+Para disfrutar de la comida china, es importante conocer algunas costumbres y consejos. En primer lugar, se suele compartir la comida en el centro de la mesa, y se recomienda usar los palillos o cucharas comunitarias para servirse
