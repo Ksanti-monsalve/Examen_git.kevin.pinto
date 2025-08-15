@@ -19,3 +19,6 @@ La gastronomía francesa se caracteriza por su elegancia, refinamiento y uso de 
 - **el pastis
 - **el Lillet y el champán 
 - **presente en muchos cócteles
+
+## consejos:
+visitar mercados locales para descubrir ingredientes frescos y especialidades regionales, atreverse a probar platos tradicionales y explorar restaurantes que valoren la autenticidad. Además, la cocina francesa enfatiza el uso de salsas, vino y hierbas aromáticas para realzar los sabore
