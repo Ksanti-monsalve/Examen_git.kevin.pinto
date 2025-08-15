@@ -13,5 +13,7 @@ la gastronomia de mexico es un patrimonio reconocido por ser una de las cocinas 
 - **limonada de jamaica, toranja y limos 
 - ** y otra vevifda no muy importante la birria
 
+## consejos
+- ** no tomar deemaciado picante porque puede llegar a ser perjudicial para tu salud
 
 
