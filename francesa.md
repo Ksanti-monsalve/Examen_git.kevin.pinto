@@ -12,3 +12,10 @@ La gastronomía francesa se caracteriza por su elegancia, refinamiento y uso de 
 - **Escargot.
 - **Croque Monsieur.
 - **Quiche Lorraine.
+
+## bebidas recomendadas:
+- **Las bebidas de aperitivo más famosas en Francia son el kir (vino blanco con crema de cassis)
+- **vino blanco por champán; el vino rosado (en verano)
+- **el pastis
+- **el Lillet y el champán 
+- **presente en muchos cócteles
