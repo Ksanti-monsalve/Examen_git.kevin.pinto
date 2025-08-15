@@ -10,3 +10,9 @@ La comida mediterránea se caracteriza por un alto consumo de vegetales, frutas,
 - **el falafel
 - **el cuscús árabe 
 - **la exquisita paella española
+
+## bebidas recoemndadas:
+- **el agua es la bebida principal
+- **seguida por el vino tinto con moderación 
+- **ocasionalmente, café o té. 
+- **También se recomiendan zumos naturales de frutas y bebidas refrescantes a base de cítricos
