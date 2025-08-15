@@ -12,3 +12,6 @@ La comida india se caracteriza por su riqueza en sabores, aromas y texturas, res
 - **Pollo tandoori. 
 - **Dhal o dal. 
 - **Aloo Dum.
+
+## bebidas recomendadas:
+- **l masala chai es quizás la bebida india más famosa y emblemática. Este té especiado se prepara con té negro y una mezcla de especias y hierbas aromáticas, como cardamomo, canela, jengibre, clavo y pimienta negra.
