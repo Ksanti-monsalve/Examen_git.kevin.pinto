@@ -11,3 +11,8 @@ La comida vegetariana es aquella que excluye la carne, aves y pescado. Se basa p
 - **Semillas.
 - **Nueces.
 - **Puede incluir huevos leche, si es lacto-ovo vegetariano.
+
+## bebidas recoemndadas:
+- ** agua de chia y de limon.
+- ** margarita de naranja y ginseng.
+- ** ponche de gengibre.
