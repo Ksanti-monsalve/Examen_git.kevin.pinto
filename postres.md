@@ -14,3 +14,6 @@ Un postre es un plato dulce o salado que se sirve al final de una comida, aunque
 ## bebidas recomendadas:
 Despues de un postre solo agua.
 
+## consejos:
+En cuanto a los postres, lo ideal es disfrutarlos después de una comida principal como el almuerzo o la cena, y preferiblemente antes de las 6 de la tarde para dar tiempo al cuerpo de metabolizar el azúcar
+
